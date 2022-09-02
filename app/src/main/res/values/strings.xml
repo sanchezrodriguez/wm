@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Boris W Media</string>
+    <string name="check_net">Check internet connection</string>
+    <string name="server_error">Server error</string>
+    <string name="recycler_error">Server error</string>
+    <string name="retry">Retry</string>
+    <string name="no_results">No results found</string>
+    <string name="news_from">From: %1$s </string>
+    <string name="search">Search</string>
+
+</resources>
